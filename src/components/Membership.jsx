@@ -6,7 +6,7 @@ import GlowButton from "./GlowButton";
 const plans = [
   {
     name: "Basic",
-    price: "999",
+    price: "1000",
     period: "/month",
     popular: false,
     features: [
@@ -20,7 +20,7 @@ const plans = [
   },
   {
     name: "Standard",
-    price: "1,999",
+    price: "2000",
     period: "/month",
     popular: true,
     features: [
@@ -34,7 +34,7 @@ const plans = [
   },
   {
     name: "Premium",
-    price: "3,499",
+    price: "3,000",
     period: "/month",
     popular: false,
     features: [

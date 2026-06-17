@@ -8,7 +8,7 @@ const info = [
   {
     icon: MapPin,
     title: "Visit Us",
-    text: "123 Fitness Lane, Near City Center, Your City, India - 400001",
+    text: "Aaarambh gym, Near SBI Bank, Kaurihar, Prayagraj - 229412",
   },
   {
     icon: Phone,
@@ -159,7 +159,7 @@ export default function Contact() {
         </div>
 
         <div className="footer-bottom">
-          © {new Date().getFullYear()} Aarambh Gym. All rights reserved. Built with passion for Indian fitness.
+          © {new Date().getFullYear()} Aarambh Gym. All rights reserved. Developed by Atul Maurya.
         </div>
       </div>
     </footer>

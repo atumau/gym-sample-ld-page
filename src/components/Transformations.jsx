@@ -7,28 +7,28 @@ import AnimatedCounter from "./AnimatedCounter";
 const testimonials = [
   {
     text: "Main pehle bohot conscious tha apni body ko leke. Aarambh Gym ne meri zindagi badal di — 18 kg weight loss in 5 months!",
-    name: "Rahul Sharma",
+    name: "Atul Maurya",
     role: "Lost 18 kg",
     image: IMAGES.trainer1,
     rating: 5,
   },
   {
     text: "Trainer bohot supportive hain. Diet bhi Indian style mein diya gaya jo follow karna asaan tha. Ab muscle gain ho raha hai.",
-    name: "Amit Verma",
+    name: "Akash Maurya",
     role: "Gained 8 kg Muscle",
     image: IMAGES.trainer2,
     rating: 5,
   },
   {
     text: "Best local gym experience. Equipment new hai, atmosphere energetic hai, aur sabse important — results dikhte hain.",
-    name: "Priya Patel",
+    name: "Gaurav Singh",
     role: "Member since 2023",
     image: IMAGES.community,
     rating: 5,
   },
   {
     text: "Free trial ke baad maine immediately membership li. Yahan beginners ko bilkul comfortable feel karaya jaata hai.",
-    name: "Sneha Gupta",
+    name: "Deepak Pal",
     role: "Beginner to Fit",
     image: IMAGES.trainer1,
     rating: 5,
